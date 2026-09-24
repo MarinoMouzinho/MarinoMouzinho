@@ -1,16 +1,20 @@
-##  Hello World! I am Marino 👋   ![](https://komarev.com/ghpvc/?username=MarinoMouzinho&color=006bed)
+<div align="center">
+  <h1>Marino Mouzinho</h1>
+  <p><b>Graduando em Engenharia de Computação | Téc. em Informática | Dev Full-Stack</b></p>
 
-Desenvolvedor sempre em busca de novos desafios! 
-- Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
-- Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
-- Atualmente em: **Desenvolvimento Mobile de Leitura de Cards**.
+  <p>Desenvolvedor sempre em busca de novos desafios!</p>
+  <p>Atualmente em: <b>Desenvolvimento Mobile de Leitura de Cards</b> </p>
 
-#### Onde me encontrar:
-[ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
-[ ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ](mailto:marino.mouzinho@hotmail.com)
-[ ![image](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://marino-mouzinho-portfolio.vercel.app)
+  <div>
+    <a href="https://linkedin.com/in/marino-paulino-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+    <a href="mailto:marino.mouzinho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) " alt="Outlook"/></a>
+  </div>
+  
+  
+</div>
 
-## :computer: Tecnologias & Ferramentas
+
+## Tecnologias & Ferramentas
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,3 +32,6 @@ Desenvolvedor sempre em busca de novos desafios!
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AquaMouzinho&style=flat-square&label=VIEWS" alt="Profile Views">  
+</div>
