@@ -1,9 +1,9 @@
-##  Hello World! I am Marino 👋   ![](https://komarev.com/ghpvc/?username=AquaMouzinho&color=006bed)
+##  Hello World! I am Marino 👋   ![](https://komarev.com/ghpvc/?username=MarinoMouzinho&color=006bed)
 
 Desenvolvedor sempre em busca de novos desafios! 
-- :books: Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
-- 🎓 Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
-- 🌱 Atualmente em: **Sistema de Comunicação Multiagente em GODOT**.
+- Bacharelando em Engenharia de Computação no [**IFPB**](https://ifpb.edu.br).
+- Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
+- Atualmente em: **Desenvolvimento Mobile de Leitura de Cards**.
 
 #### 💬 Onde me encontrar: ⤵️
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
@@ -28,5 +28,3 @@ Desenvolvedor sempre em busca de novos desafios!
 ![office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## ⚡ Estatísticas GitHub
-[![card](https://github-readme-stats.vercel.app/api?username=MarinoMouzinho&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
