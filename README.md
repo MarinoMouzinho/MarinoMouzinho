@@ -5,7 +5,7 @@ Desenvolvedor sempre em busca de novos desafios!
 - Técnico em Informática - [**IFPB**](https://ifpb.edu.br).
 - Atualmente em: **Desenvolvimento Mobile de Leitura de Cards**.
 
-#### 💬 Onde me encontrar: ⤵️
+#### Onde me encontrar:
 [ ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ]( https://linkedin.com/in/marino-paulino-dev )
 [ ![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) ](mailto:marino.mouzinho@hotmail.com)
 [ ![image](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://marino-mouzinho-portfolio.vercel.app)
