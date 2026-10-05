@@ -3,7 +3,7 @@
   <p><b>Graduando em Engenharia de Computação | Téc. em Informática | Dev Full-Stack</b></p>
 
   <p>Desenvolvedor sempre em busca de novos desafios!</p>
-  <p>Atualmente em: <b>Desenvolvimento Mobile de Leitura de Cards</b> </p>
+  <p>Atualmente em: <b>Desenvolvimento de Jogo Mobile</b> </p>
 
   <div>
     <a href="https://linkedin.com/in/marino-paulino-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
