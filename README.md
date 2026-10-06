@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Marino Mouzinho</h1>
-  <p><b>Graduando em Engenharia de Computação | Téc. em Informática | Dev Full-Stack</b></p>
+  <p><b>Graduando em Engenharia de Computação | Téc. em Informática</b></p>
 
-  <p>Desenvolvedor sempre em busca de novos desafios!</p>
+  <p>Sempre em busca de novos desafios!</p>
   <p>Atualmente em: <b>Desenvolvimento de Jogo Mobile</b> </p>
 
   <div>
