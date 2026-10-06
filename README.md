@@ -2,22 +2,19 @@
   <h1>Marino Mouzinho</h1>
 </div>
 
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=MarinoMouzinho&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-  <p><b>Graduando em Engenharia de Computação | Téc. em Informática</b></p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=MarinoMouzinho&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<p><b>Graduando em Engenharia de Computação <br/> Téc. em Informática</b></p>
 
-  <p>Sempre em busca de novos desafios!</p>
-  <p>Atualmente em: <b>Desenvolvimento de Jogo Mobile</b> </p>
+<p>Sempre em busca de novos desafios!</p>
+<p>Atualmente em: <b>Desenvolvimento de Jogo Mobile</b> </p>
 
-  <div>
-    <a href="https://linkedin.com/in/marino-mouzinho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-    <a href="mailto:marino.mouzinho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" alt="Outlook"/></a>
-    <a href="https://marino-mouzinho-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" alt="Portfolio"/></a>
-  </div>
-  
-  
+<div>
+  <a href="https://linkedin.com/in/marino-mouzinho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+  <a href="mailto:marino.mouzinho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" alt="Outlook"/></a>
+  <a href="https://marino-mouzinho-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" alt="Portfolio"/></a>
+</div>
 
-
-
+    
 ## Stacks
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
