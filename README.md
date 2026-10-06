@@ -6,7 +6,7 @@
   <p>Atualmente em: <b>Desenvolvimento de Jogo Mobile</b> </p>
 
   <div>
-    <a href="https://linkedin.com/in/marino-paulino-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+    <a href="https://linkedin.com/in/marino-mouzinho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
     <a href="mailto:marino.mouzinho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white) " alt="Outlook"/></a>
   </div>
   
