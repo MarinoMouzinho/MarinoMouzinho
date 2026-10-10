@@ -6,22 +6,7 @@
   <a href="mailto:marino.mouzinho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" alt="Outlook"/></a>
   <a href="https://marino-mouzinho-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" alt="Portfolio"/></a>
 
-  <h2>Stats & Skills</h2>
-
-  <div align="center">
-    <div width="100%">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=MarinoMouzinho&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"
-        alt="GitHub Stats"
-      />
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=MarinoMouzinho&layout=donut&hide_title=true&langs_count=5&theme=transparent"
-        height="165px"
-        alt="Top Languages"
-      />
-    </div>
-  </div>
-
+  <h3>Skills</h3>
 
   ![Android Badge](https://img.shields.io/badge/-3DDC84?logo=android&logoColor=fff&style=for-the-badge)
   ![Kotlin Badge](https://img.shields.io/badge/-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
@@ -43,3 +28,21 @@
   ![markdown](https://img.shields.io/badge/-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![docker](https://img.shields.io/badge/-007ACC?style=for-the-badge&logo=docker&logoColor=white)
   ![Vercel Badge](https://img.shields.io/badge/-000?logo=vercel&logoColor=fff&style=for-the-badge)
+
+  <h3>Stats</h3>
+
+  <div align="center">
+    <div width="100%">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=MarinoMouzinho&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"
+        alt="GitHub Stats"
+      />
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=MarinoMouzinho&layout=donut&hide_title=true&langs_count=5&theme=transparent"
+        height="165px"
+        alt="Top Languages"
+      />
+    </div>
+  </div>
+  
+</div>
